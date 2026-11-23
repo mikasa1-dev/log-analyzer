@@ -1,0 +1,12 @@
+=== Failed Login Report ===
+Total failed logins: 6
+
+Top targeted users:
+  nobody - 5
+  sneha - 1
+
+Which programs reported failures:
+  su - 5
+  gdm-password - 1
+
+ALERT: 5 or more failed logins found. Possible brute-force attempt.
